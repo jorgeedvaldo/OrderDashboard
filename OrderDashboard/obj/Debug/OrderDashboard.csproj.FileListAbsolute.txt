@@ -1,0 +1,12 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\OrderDashboard\OrderDashboard\bin\Debug\OrderDashboard.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\OrderDashboard\OrderDashboard\obj\Debug\OrderDashboard.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\OrderDashboard\OrderDashboard\obj\Debug\OrderDashboard.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\OrderDashboard\OrderDashboard\bin\Debug\OrderDashboard.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\OrderDashboard\OrderDashboard\bin\Debug\OrderDashboard.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\OrderDashboard\OrderDashboard\bin\Debug\EdvFramework.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\OrderDashboard\OrderDashboard\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\OrderDashboard\OrderDashboard\bin\Debug\MetroFramework.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\OrderDashboard\OrderDashboard\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\OrderDashboard\OrderDashboard\obj\Debug\OrderDashboard.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\OrderDashboard\OrderDashboard\obj\Debug\OrderDashboard.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\OrderDashboard\OrderDashboard\obj\Debug\OrderDashboard.FrmPrincipal.resources
